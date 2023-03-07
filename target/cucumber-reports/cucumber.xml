@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.223" tests="2" skipped="0" failures="2" errors="0">
+<testcase classname="ShareKhan HomePage" name="Verify title of ShareKhan Homepage" time="0.036">
+<failure/>
+<system-out><![CDATA[
+Given User is on ShareKhan Homepage.........................................undefined
+When Title of Home page contains "Sharekhan" and display contents MARKET,NEW TO MARKET,SUPER INVESTOR,ACTIVE TRADER,MUTUAL FUNDS,RESEARCH,EDUCATION FIRST,PRODUCTS AND SERVICES,LOGIN/TRADE button.skipped
+Then Close browser after verification.......................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="ShareKhan HomePage" name="Verify ShareKhan HomePage" time="0.003">
+<failure/>
+<system-out><![CDATA[
+Given User is on ShareKhan Homepage.........................................undefined
+When User click on Main Menu................................................skipped
+Then Main menu popup is displayed on right side.............................skipped
+]]></system-out>
+</testcase>
+</testsuite>
